@@ -6,7 +6,7 @@ This system utilizes OpenAI's APIs within a framework designed to streamline cus
 
 ## Presentation
 
-View presentation [PDF file]()
+View presentation [PDF file](https://drive.google.com/file/d/1mTQpQhrG-iT35RVRBwxtkWtRl1tc-Ms7/view?usp=sharing)
 
 ## Features
 
